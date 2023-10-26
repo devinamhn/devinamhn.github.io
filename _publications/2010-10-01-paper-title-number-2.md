@@ -2,7 +2,24 @@
 title: "Weight Pruning and Uncertainty in Radio Galaxy Classification"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Using variational inference to quantify uncertainty and using SNSR and Fisher based ranking for network pruning.'
+excerpt: 'In this work we use variational inference to quantify the degree of epistemic
+uncertainty in model predictions of radio galaxy classification and show that
+the level of model posterior variance for individual test samples is correlated
+with human uncertainty when labelling radio galaxies. We explore the model
+performance and uncertainty calibration for a variety of different weight priors and
+suggest that a sparse prior produces more well-calibrated uncertainty estimates.
+Using the posterior distributions for individual weights, we show that signal-to-
+noise ratio (SNR) ranking allows pruning of the fully-connected layers to the level
+of 30% without significant loss of performance, and that this pruning increases the
+predictive uncertainty in the model. Finally we show that, like other work in this
+field, we experience a cold posterior effect. We examine whether adapting the cost
+function in our model to accommodate model misspecification can compensate
+for this effect, but find that it does not make a significant difference. We also
+examine the effect of principled data augmentation and find that it improves upon
+the baseline but does not compensate for the observed effect fully. We interpret this
+as the cold posterior effect being due to the overly effective curation of our training
+sample leading to likelihood misspecification, and raise this as a potential issue for
+Bayesian deep learning approaches to radio galaxy classification in future.'
 date: 2021-11-23
 venue: 'Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021)'
 paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_67.pdf'
