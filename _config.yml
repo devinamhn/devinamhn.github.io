@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Devina Mohan"
 title_separator          : "-"
 name                     : &name "Devina Mohan"
-description              : &description "PhD student working on AI for Radio Astronomy"
+description              : &description "PhD student working on Uncertainty Quantification in AI for Radio Astronomy"
 url                      : https://devinamhn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devinamhn/devinamhn.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Devina Mohan"
   avatar           : "profile.jpg"
-  bio              : "PhD student working on AI for Radio Astronomy"
+  bio              : "PhD student working on Uncertainty Quantification in AI for Radio Astronomy"
   location         : 
   employer         : "University of Manchester"
   pubmed           : 
