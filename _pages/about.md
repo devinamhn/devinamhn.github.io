@@ -33,5 +33,5 @@ Create content & metadata
 For site content, there is one markdown file for 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png)>
 
