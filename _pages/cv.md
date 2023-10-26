@@ -14,6 +14,7 @@ Education
 * Ph.D in Astronomy & Astrophysics, Unversity of Manchester, 2022-Present
 * Master's by Research Astronomy (MRes) and Astrophysics awarded with Distinction, University of Manchester, 2021
 * B.Tech in Electronics and Communications Engineering, Guru Gobind Singh Indraprastha University, 2020
+
 <!-- * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
@@ -44,11 +45,11 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
@@ -56,6 +57,6 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
