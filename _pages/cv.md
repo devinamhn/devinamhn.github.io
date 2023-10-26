@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Astronomy & Astrophysics, Unversity of Manchester, 2022-Present
-* Master's by Research Astronomy (MRes) and Astrophysics awarded with Distinction, University of Manchester, 2021
+* Master's by Research (MRes) Astronomy and Astrophysics awarded with Distinction, University of Manchester, 2021
 * B.Tech in Electronics and Communications Engineering, Guru Gobind Singh Indraprastha University, 2020
 
 <!-- * M.S. in Jekyll, GitHub University, 2014
