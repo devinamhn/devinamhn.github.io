@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student working at the intersection of deep learning and astrophysics at the University of Manchester, supervised by Prof. Anna Scaife. I am interested in exploring the potential of Bayesian neural networks (BNNs) and probabilistic programming for scientific application. I have previously used variational inference to perform uncertainty quantification for Radio Galaxy Classification. I am now using MCMC based BNNs for extracting well-calibrated neural network posteriors that will enable astronomers to extract meaningful scientific information from large datasets. 
+I am a final year PhD student working at the intersection of deep learning and astrophysics at the University of Manchester. I am interested in exploring the potential of Bayesian neural networks and probabilistic programming for scientific application.
 
-<!-- In the future, I hope to play a role in operationalising AI systems for the next-generation of radio astronomy facilities such as the Square Kilometre Array which is expected to produce exabytes of data over its lifetime. -->
+Research interests: uncertainty quantification in deep learning, approximate Bayesian inference for neural networks, generalised variational inference, self-supervised learning representations, detecting scientifically intersting anomalies and rare objects in large unlabelled datasets
+
+<!-- Previously I completed a Masters by Research in Astronomy and Astrophysics at the University of Manchester and Bachelors of Technology in Electronics and Communications Engineering from Guru Gobind Singh Indraprastha Univeristy in India. -->
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
