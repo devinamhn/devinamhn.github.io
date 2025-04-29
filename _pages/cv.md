@@ -15,6 +15,7 @@ Education
 * Master's by Research (MRes) Astronomy and Astrophysics awarded with Distinction, University of Manchester, 2021
 * B.Tech in Electronics and Communications Engineering, Guru Gobind Singh Indraprastha University, 2020
 
+[Download CV](http://academicpages.github.io/files/DM_CV.pdf)
 <!-- * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
